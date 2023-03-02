@@ -1,2 +1,2 @@
 # myrepo
-i am editing this file adding some more details
+i am editing readme file. ADding some more details about project description
